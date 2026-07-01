@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.2.0](https://github.com/mcthesw/Basement-Bridge/compare/v0.1.1...v0.2.0) (2026-07-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove UDP FEC transport profile
+
+### Features
+
+* remove UDP FEC transport profile ([f367c23](https://github.com/mcthesw/Basement-Bridge/commit/f367c237a82345b39d19ac010e0a90f62a25e4b8))
+
+
+### Bug Fixes
+
+* **client:** make native hook startup diagnosable ([e581c88](https://github.com/mcthesw/Basement-Bridge/commit/e581c88d9ee97459ad411297078a071e0e2a1881))
+
+
+### Code Refactoring
+
+* **injector:** remove prototype fallback artifacts ([985ee14](https://github.com/mcthesw/Basement-Bridge/commit/985ee149460e05e00622904c1089adcce442e0c3))
+
 ## [0.1.1](https://github.com/mcthesw/Basement-Bridge/compare/v0.1.0...v0.1.1) (2026-06-30)
 
 
